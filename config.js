@@ -6,6 +6,7 @@ window.PORTFOLIO = {
   bio: "Exploring malicious code, investigating adversary behavior, and turning evidence into actionable intelligence.",
   email: "", // Example: name@example.com
   profiles: [
+    // demo 01
     {
       name: "GitHub",
       label: "Code & research",
