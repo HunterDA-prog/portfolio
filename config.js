@@ -30,6 +30,12 @@ window.PORTFOLIO = {
       detail: "Career background and professional connections.",
       url: "https://www.linkedin.com/in/ducanhYo09/",
     },
+    {
+      name: "Cyberdefense",
+      label: "Cyber forensic",
+      detail: "Forensic some labs",
+      url: "https://cyberdefenders.org/p/HunterDA",
+    },
   ],
   // These are illustrative templates, not claims about completed projects.
   // Set example: false only after replacing the text with your real work.
