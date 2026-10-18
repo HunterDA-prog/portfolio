@@ -25,5 +25,6 @@ Project write-ups will be linked here as they are published.
 - [LeetCode](https://leetcode.com/u/irwtpEd4mu/)
 - [OffSec](https://portal.offsec.com/public-profile/0c35cf4e-b6f4-4636-b068-b39b5ec2cdbb)
 - [LinkedIn](https://www.linkedin.com/in/ducanhYo09/)
+- [CyberDefense](https://cyberdefenders.org/p/HunterDA)
 
 > Understand threats. Build better defenses.
